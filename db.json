@@ -129,12 +129,12 @@
       "id": "5",
       "topicId": 1,
       "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions",
-      "question": "She managed to keep her job_________ the manager threatened to sack her.",
+      "question": "Don't ______ when he is telling the story.",
       "answers": [
-        "A. although",
-        "B. because",
-        "C. despite",
-        "D. in spite of"
+        "A. stop off",
+        "B. stop in",
+        "C. break into",
+        "D. break in"
       ],
       "correctAnswer": 1
     },
@@ -142,12 +142,12 @@
       "id": "6",
       "topicId": 1,
       "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions",
-      "question": "She managed to keep her job_________ the manager threatened to sack her.",
+      "question": "I won't buy that car because it has too much ______ on it.",
       "answers": [
-        "A. although",
-        "B. because",
-        "C. despite",
-        "D. in spite of"
+        "A. wear and tear",
+        "B. ups and downs",
+        "C. odds and ends",
+        "D. white lie"
       ],
       "correctAnswer": 1
     },
@@ -155,38 +155,38 @@
       "id": "7",
       "topicId": 1,
       "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions",
-      "question": "She managed to keep her job_________ the manager threatened to sack her.",
+      "question": "I will have been away from home for more than three years ________.",
       "answers": [
-        "A. although",
-        "B. because",
-        "C. despite",
-        "D. in spite of"
+        "A. until I will have returned to my country next month",
+        "B. once I had returned to my country next month",
+        "C. as soon as I will return to my country next month",
+        "D. by the time I return to my country next month."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 4
     },
     {
       "id": "8",
       "topicId": 1,
       "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions",
-      "question": "She managed to keep her job_________ the manager threatened to sack her.",
+      "question": "During the interview, you should try to _______ a good impression on your interviewer.",
       "answers": [
-        "A. although",
-        "B. because",
-        "C. despite",
-        "D. in spite of"
+        "A. try",
+        "B. give",
+        "C. have",
+        "D. create"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 4
     },
     {
       "id": "9",
       "topicId": 1,
       "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions",
-      "question": "She managed to keep her job_________ the manager threatened to sack her.",
+      "question": "The first round of France's 2022 presidential election _____ on 10 April.",
       "answers": [
-        "A. although",
-        "B. because",
-        "C. despite",
-        "D. in spite of"
+        "A. was held",
+        "B. held",
+        "C. had held",
+        "D. was holding"
       ],
       "correctAnswer": 1
     },
@@ -207,12 +207,12 @@
       "id": "11",
       "topicId": 1,
       "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions",
-      "question": "She managed to keep her job_________ the manager threatened to sack her.",
+      "question": "He needs to do the homework before going out with his friends, ______?",
       "answers": [
-        "A. although",
-        "B. because",
-        "C. despite",
-        "D. in spite of"
+        "A. doesn't he",
+        "B. does he",
+        "C. needn't he",
+        "D. need he"
       ],
       "correctAnswer": 1
     },
@@ -220,27 +220,27 @@
       "id": "12",
       "topicId": 1,
       "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions",
-      "question": "She managed to keep her job_________ the manager threatened to sack her.",
+      "question": "Every morning, my father usually drinks several cups of tea, has a _____ breakfast and then leads the buffalo to the field.",
       "answers": [
-        "A. although",
-        "B. because",
-        "C. despite",
-        "D. in spite of"
+        "A. quickly",
+        "B. quick",
+        "C. quickness",
+        "D. quicker"
       ],
       "correctAnswer": 1
     },
     {
       "id": "13",
       "topicId": 1,
-      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions",
-      "question": "She managed to keep her job_________ the manager threatened to sack her.",
+      "title": "Mark the letter A, B, C or D to indicate the word(s) OPPOSITE in meaning to the underlined word(s) in each of the following questions",
+      "question": "Choose the word(s) OPPOSITE in meaning to the underlined word(s): Jane found herself in conflict with her parents over her future career.",
       "answers": [
-        "A. although",
-        "B. because",
-        "C. despite",
-        "D. in spite of"
+        "A. controversy",
+        "B. disagreement",
+        "C. harmony",
+        "D. fighting"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "14",
@@ -258,26 +258,26 @@
     {
       "id": "15",
       "topicId": 1,
-      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions",
-      "question": "She managed to keep her job_________ the manager threatened to sack her.",
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that best combines each pair of sentences in the following questions",
+      "question": "My eldest sister graduated from university. She soon started working as a freelance journalist.",
       "answers": [
-        "A. although",
-        "B. because",
-        "C. despite",
-        "D. in spite of"
+        "A. No sooner had my eldest sister started working as a freelance journalist than she graduated from university.",
+        "B. Not until my eldest sister started working as a freelance journalist did she graduate from university.",
+        "C. No sooner had my eldest sister graduated from university than she started working as a freelance journalist.",
+        "D. Hardly had my eldest sister started working as a freelance journalist when she graduated from university."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "16",
       "topicId": 1,
-      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions",
-      "question": "She managed to keep her job_________ the manager threatened to sack her.",
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that best combines each pair of sentences in the following questions",
+      "question": "When I was younger, I never learned to play a musical instrument. Now I regret this.",
       "answers": [
-        "A. although",
-        "B. because",
-        "C. despite",
-        "D. in spite of"
+        "A. I wish I learned to play a musical instrument when I was younger.",
+        "B. I wish I played a musical instrument when I was younger.",
+        "C. I wish I would learn to play a musical instrument when I was younger.",
+        "D. I wish I had learned to play a musical instrument when I was younger."
       ],
       "correctAnswer": 1
     },
@@ -297,41 +297,41 @@
     {
       "id": "18",
       "topicId": 1,
-      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions",
-      "question": "She managed to keep her job_________ the manager threatened to sack her.",
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the underlined part that needs correction in each of the following questions",
+      "question": "Find the mistake: My boss' anger suddenly erupts into furious shouting several days ago.",
       "answers": [
-        "A. although",
-        "B. because",
-        "C. despite",
-        "D. in spite of"
+        "A. suddenly",
+        "B. boss",
+        "C. erupts",
+        "D. furious"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "19",
       "topicId": 1,
-      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions",
-      "question": "She managed to keep her job_________ the manager threatened to sack her.",
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that is closest in meaning to each of the following questions",
+      "question": "He last visited London five years ago.",
       "answers": [
-        "A. although",
-        "B. because",
-        "C. despite",
-        "D. in spite of"
+        "A. He didn't visit London five years ago.",
+        "B. He was in London for five years.",
+        "C. He has been in London for five years.",
+        "D. He hasn't visited London for five years."
       ],
-      "correctAnswer": 1
+      "correctAnswer": 4
     },
     {
       "id": "20",
       "topicId": 1,
       "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions",
-      "question": "She managed to keep her job_________ the manager threatened to sack her.",
+      "question": "I remember she wore a ______ dress to go out with her boyfriend last week.",
       "answers": [
-        "A. although",
-        "B. because",
-        "C. despite",
-        "D. in spite of"
+        "A. white cotton Vietnamese",
+        "B. cotton white Vietnamese",
+        "C. Vietnamese white cotton",
+        "D. white Vietnamese cotton"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 4
     },
     {
       "id": "21",
@@ -453,6 +453,396 @@
     {
       "id": "30",
       "topicId": 2,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "31",
+      "topicId": 3,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "32",
+      "topicId": 3,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "33",
+      "topicId": 3,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "34",
+      "topicId": 3,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "35",
+      "topicId": 3,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "36",
+      "topicId": 3,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "37",
+      "topicId": 3,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "38",
+      "topicId": 3,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "39",
+      "topicId": 3,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "40",
+      "topicId": 3,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "41",
+      "topicId": 4,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "42",
+      "topicId": 4,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "43",
+      "topicId": 4,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "44",
+      "topicId": 4,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "45",
+      "topicId": 4,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "46",
+      "topicId": 4,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "47",
+      "topicId": 4,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "48",
+      "topicId": 4,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "49",
+      "topicId": 4,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "50",
+      "topicId": 4,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "51",
+      "topicId": 5,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "52",
+      "topicId": 5,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "53",
+      "topicId": 5,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "54",
+      "topicId": 5,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "55",
+      "topicId": 5,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "56",
+      "topicId": 5,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "57",
+      "topicId": 5,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "58",
+      "topicId": 5,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "59",
+      "topicId": 5,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "60",
+      "topicId": 5,
       "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
       "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
       "answers": [
@@ -1094,6 +1484,310 @@
         {
           "questionID": "30",
           "answer": "2"
+        }
+      ]
+    },
+    {
+      "id": "b432",
+      "userID": "1",
+      "topicID": 1,
+      "date": "11-01-2025",
+      "time": "14:42:22",
+      "result": [
+        {
+          "questionID": "1",
+          "answer": "1"
+        },
+        {
+          "questionID": "2",
+          "answer": "2"
+        },
+        {
+          "questionID": "3",
+          "answer": "2"
+        },
+        {
+          "questionID": "4",
+          "answer": "1"
+        },
+        {
+          "questionID": "5",
+          "answer": "3"
+        },
+        {
+          "questionID": "6",
+          "answer": "1"
+        },
+        {
+          "questionID": "7",
+          "answer": "2"
+        },
+        {
+          "questionID": "8",
+          "answer": "1"
+        },
+        {
+          "questionID": "9",
+          "answer": "1"
+        },
+        {
+          "questionID": "10",
+          "answer": "3"
+        },
+        {
+          "questionID": "11",
+          "answer": "1"
+        },
+        {
+          "questionID": "12",
+          "answer": "1"
+        },
+        {
+          "questionID": "13",
+          "answer": "1"
+        },
+        {
+          "questionID": "14",
+          "answer": "1"
+        },
+        {
+          "questionID": "15",
+          "answer": "2"
+        },
+        {
+          "questionID": "16",
+          "answer": "1"
+        },
+        {
+          "questionID": "17",
+          "answer": "1"
+        },
+        {
+          "questionID": "18",
+          "answer": "1"
+        },
+        {
+          "questionID": "19",
+          "answer": "1"
+        },
+        {
+          "questionID": "20",
+          "answer": "3"
+        }
+      ]
+    },
+    {
+      "id": "876e",
+      "userID": "a1ed",
+      "topicID": 4,
+      "date": "11-01-2025",
+      "time": "15:58:29",
+      "result": []
+    },
+    {
+      "id": "8548",
+      "userID": "1",
+      "topicID": 1,
+      "date": "11-01-2025",
+      "time": "19:55:27",
+      "result": [
+        {
+          "questionID": "1"
+        },
+        {
+          "questionID": "2"
+        },
+        {
+          "questionID": "3"
+        },
+        {
+          "questionID": "4"
+        },
+        {
+          "questionID": "5"
+        },
+        {
+          "questionID": "6"
+        },
+        {
+          "questionID": "7"
+        },
+        {
+          "questionID": "8"
+        },
+        {
+          "questionID": "9"
+        },
+        {
+          "questionID": "10"
+        },
+        {
+          "questionID": "11"
+        },
+        {
+          "questionID": "12"
+        },
+        {
+          "questionID": "13"
+        },
+        {
+          "questionID": "14"
+        },
+        {
+          "questionID": "15"
+        },
+        {
+          "questionID": "16"
+        },
+        {
+          "questionID": "17"
+        },
+        {
+          "questionID": "18"
+        },
+        {
+          "questionID": "19"
+        },
+        {
+          "questionID": "20"
+        }
+      ]
+    },
+    {
+      "id": "9e6f",
+      "userID": "1",
+      "topicID": 2,
+      "date": "11-01-2025",
+      "time": "21:04:43",
+      "result": [
+        {
+          "questionID": "21",
+          "answer": "1"
+        },
+        {
+          "questionID": "22",
+          "answer": "2"
+        },
+        {
+          "questionID": "23",
+          "answer": "2"
+        },
+        {
+          "questionID": "24",
+          "answer": "4"
+        },
+        {
+          "questionID": "25",
+          "answer": "1"
+        },
+        {
+          "questionID": "26",
+          "answer": "3"
+        },
+        {
+          "questionID": "27",
+          "answer": "1"
+        },
+        {
+          "questionID": "28",
+          "answer": "2"
+        },
+        {
+          "questionID": "29",
+          "answer": "3"
+        },
+        {
+          "questionID": "30",
+          "answer": "1"
+        }
+      ]
+    },
+    {
+      "id": "6318",
+      "userID": "1",
+      "topicID": 1,
+      "date": "11-01-2025",
+      "time": "21:05:51",
+      "result": [
+        {
+          "questionID": "1",
+          "answer": "1"
+        },
+        {
+          "questionID": "2",
+          "answer": "1"
+        },
+        {
+          "questionID": "3",
+          "answer": "2"
+        },
+        {
+          "questionID": "4",
+          "answer": "2"
+        },
+        {
+          "questionID": "5",
+          "answer": "1"
+        },
+        {
+          "questionID": "6",
+          "answer": "3"
+        },
+        {
+          "questionID": "7",
+          "answer": "1"
+        },
+        {
+          "questionID": "8",
+          "answer": "2"
+        },
+        {
+          "questionID": "9",
+          "answer": "1"
+        },
+        {
+          "questionID": "10",
+          "answer": "1"
+        },
+        {
+          "questionID": "11",
+          "answer": "4"
+        },
+        {
+          "questionID": "12",
+          "answer": "1"
+        },
+        {
+          "questionID": "13",
+          "answer": "1"
+        },
+        {
+          "questionID": "14",
+          "answer": "3"
+        },
+        {
+          "questionID": "15",
+          "answer": "1"
+        },
+        {
+          "questionID": "16",
+          "answer": "1"
+        },
+        {
+          "questionID": "17",
+          "answer": "1"
+        },
+        {
+          "questionID": "18",
+          "answer": "1"
+        },
+        {
+          "questionID": "19",
+          "answer": "1"
+        },
+        {
+          "questionID": "20",
+          "answer": "1"
         }
       ]
     }

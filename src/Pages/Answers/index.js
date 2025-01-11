@@ -50,7 +50,7 @@ function Answers() {
             title: "Thời gian làm bài",
             dataIndex: "time",
             key: "time",
-            width: "15%",
+            width: "10%",
         },
         {
             title: "Ngày làm bài",

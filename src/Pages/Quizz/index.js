@@ -35,7 +35,7 @@ function Quizz() {
                 answer: values[key],
             };
         });
-
+        
         setUnansweredQuestions([]);
         let options = {
             userID: getCookie("id"),
@@ -113,7 +113,7 @@ function Quizz() {
                                         rules={[
                                             {
                                                 required: true,
-                                                // message: "Bạn chưa chọn đáp án câu này",
+                                                message: "Bạn chưa chọn đáp án câu này",
                                             },
                                         ]}
                                     >
