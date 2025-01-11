@@ -40,7 +40,7 @@ function Register() {
             <div className="login">
                 <Row gutter={[20, 20]}>
                     <Col span={8} offset={8}>
-                        <h3>ĐĂNG KÝ TÀI KHOẢN</h3>
+                        <h3>ĐĂNG KÝ TÀI KHOẢN CỦA BẠN</h3>
                         <Form layout="vertical" form={form} name="Register" onFinish={handleSubmit}>
                             <Form.Item
                                 label="Họ và tên"

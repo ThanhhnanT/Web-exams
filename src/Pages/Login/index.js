@@ -4,6 +4,7 @@ import { useState } from "react";
 import { userLogin } from "../../Services/Login";
 import { useNavigate } from "react-router-dom";
 import { setCookie } from "../../Helpers/cookies";
+import { Link } from "react-router-dom";
 
 function Login() {
     const [form] = Form.useForm();
@@ -89,6 +90,11 @@ function Login() {
                                 <Button type="primary" htmlType="submit">
                                     Đăng nhập
                                 </Button>
+                                <Link to="/register">
+                                    <Button style={{marginLeft: '10px' }}>
+                                        Bạn chưa có tài khoản ?
+                                    </Button>
+                                </Link>
                             </Form.Item>
                         </Form>
                     </Col>
