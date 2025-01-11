@@ -34,6 +34,13 @@
       "email": "conenyeu@gmail.com",
       "password": "AAAAAA",
       "token": " 4lF5ARRSLKFsJl5kFSK5"
+    },
+    {
+      "id": "4497",
+      "fullName": "Vương Thành",
+      "email": "vuongthanhsaovang1@gmail.com",
+      "password": "Saovangsv1",
+      "token": " PA3a4D54d33ELjSkFRSd"
     }
   ],
   "topics": [
@@ -76,25 +83,25 @@
       "id": "2",
       "topicId": 1,
       "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions",
-      "question": "She managed to keep her job_________ the manager threatened to sack her.",
+      "question": "Moc Chau was a very________ place where we took many pictures of the whole class.",
       "answers": [
-        "A. although",
-        "B. because",
-        "C. despite",
-        "D. in spite of"
+        "A. beautify",
+        "B. beauty",
+        "C. beautifully",
+        "D. beautiful"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 4
     },
     {
       "id": "3",
       "topicId": 1,
       "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions",
-      "question": "She managed to keep her job_________ the manager threatened to sack her.",
+      "question": "My husband gave me a(n)________ car as a birthday present last month.",
       "answers": [
-        "A. although",
-        "B. because",
-        "C. despite",
-        "D. in spite of"
+        "A. red Japanese expensive",
+        "B. red expensive Japanese",
+        "C. expensive red Japanese",
+        "D. Japanese red expensive"
       ],
       "correctAnswer": 1
     },
@@ -102,14 +109,14 @@
       "id": "4",
       "topicId": 1,
       "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions",
-      "question": "She managed to keep her job_________ the manager threatened to sack her.",
+      "question": "I met a man with _______ I used to work.",
       "answers": [
-        "A. although",
-        "B. because",
-        "C. despite",
-        "D. in spite of"
+        "A. what",
+        "B. whom",
+        "C. who",
+        "D. which"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "5",
@@ -316,6 +323,136 @@
         "B. because",
         "C. despite",
         "D. in spite of"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "21",
+      "topicId": 2,
+      "title": "Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct word or phrase that best fits each of the numbered blanks",
+      "question": "In the early 1990s, the psychologist K. Anders Ericsson and two colleagues installed themselves at Berlin's elite Academy of Music. With the help of the academy's professors, they (39) _______ the school's violinists into three groups. First were the students with the potential to become world-class soloists. Second were those judged to be merely 'good'. Third were the students unlikely ever to play professionally and who intended to be music teachers in schools. All were then asked how (40) ______ hours they had practised since they first picked up a violin. Everyone, from all three groups, had started playing at roughly the age of five and practised from two or three hours a week. (41) ______ around the age of eight, differences started to emerge. The students (42) _______ would end up as the best in their class began to practise more than everyone else, until by the age of 20 they were practising well over 30 hours a week. By then, the elite performers had all totaled 10000 hours of practice over the (43) ________ of their lives, the merely good students 8000 hours and the future music teachers just over 4000 hours(Adapted from Ready for Advanced by Roy Norris, Amanda French with Miles Hordern)​ (39) _______",
+      "answers": [
+        "A. parted",
+        "B. shared",
+        "C. divided",
+        "D. broke"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "22",
+      "topicId": 2,
+      "title": "Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct word or phrase that best fits each of the numbered blanks",
+      "question": "In the early 1990s, the psychologist K. Anders Ericsson and two colleagues installed themselves at Berlin's elite Academy of Music. With the help of the academy's professors, they (39) _______ the school's violinists into three groups. First were the students with the potential to become world-class soloists. Second were those judged to be merely 'good'. Third were the students unlikely ever to play professionally and who intended to be music teachers in schools. All were then asked how (40) ______ hours they had practised since they first picked up a violin. Everyone, from all three groups, had started playing at roughly the age of five and practised from two or three hours a week. (41) ______ around the age of eight, differences started to emerge. The students (42) _______ would end up as the best in their class began to practise more than everyone else, until by the age of 20 they were practising well over 30 hours a week. By then, the elite performers had all totaled 10000 hours of practice over the (43) ________ of their lives, the merely good students 8000 hours and the future music teachers just over 4000 hours(Adapted from Ready for Advanced by Roy Norris, Amanda French with Miles Hordern)​ (40) _______",
+      "answers": [
+        "A. each",
+        "B. few",
+        "C. many",
+        "D. much"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "23",
+      "topicId": 2,
+      "title": "Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct word or phrase that best fits each of the numbered blanks",
+      "question": "In the early 1990s, the psychologist K. Anders Ericsson and two colleagues installed themselves at Berlin's elite Academy of Music. With the help of the academy's professors, they (39) _______ the school's violinists into three groups. First were the students with the potential to become world-class soloists. Second were those judged to be merely 'good'. Third were the students unlikely ever to play professionally and who intended to be music teachers in schools. All were then asked how (40) ______ hours they had practised since they first picked up a violin. Everyone, from all three groups, had started playing at roughly the age of five and practised from two or three hours a week. (41) ______ around the age of eight, differences started to emerge. The students (42) _______ would end up as the best in their class began to practise more than everyone else, until by the age of 20 they were practising well over 30 hours a week. By then, the elite performers had all totaled 10000 hours of practice over the (43) ________ of their lives, the merely good students 8000 hours and the future music teachers just over 4000 hours(Adapted from Ready for Advanced by Roy Norris, Amanda French with Miles Hordern)​ (41) _______",
+      "answers": [
+        "A. parted",
+        "B. shared",
+        "C. divided",
+        "D. broke"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "24",
+      "topicId": 2,
+      "title": "Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct word or phrase that best fits each of the numbered blanks",
+      "question": "In the early 1990s, the psychologist K. Anders Ericsson and two colleagues installed themselves at Berlin's elite Academy of Music. With the help of the academy's professors, they (39) _______ the school's violinists into three groups. First were the students with the potential to become world-class soloists. Second were those judged to be merely 'good'. Third were the students unlikely ever to play professionally and who intended to be music teachers in schools. All were then asked how (40) ______ hours they had practised since they first picked up a violin. Everyone, from all three groups, had started playing at roughly the age of five and practised from two or three hours a week. (41) ______ around the age of eight, differences started to emerge. The students (42) _______ would end up as the best in their class began to practise more than everyone else, until by the age of 20 they were practising well over 30 hours a week. By then, the elite performers had all totaled 10000 hours of practice over the (43) ________ of their lives, the merely good students 8000 hours and the future music teachers just over 4000 hours(Adapted from Ready for Advanced by Roy Norris, Amanda French with Miles Hordern)​ (42) _______",
+      "answers": [
+        "A. parted",
+        "B. shared",
+        "C. divided",
+        "D. broke"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "25",
+      "topicId": 2,
+      "title": "Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct word or phrase that best fits each of the numbered blanks",
+      "question": "In the early 1990s, the psychologist K. Anders Ericsson and two colleagues installed themselves at Berlin's elite Academy of Music. With the help of the academy's professors, they (39) _______ the school's violinists into three groups. First were the students with the potential to become world-class soloists. Second were those judged to be merely 'good'. Third were the students unlikely ever to play professionally and who intended to be music teachers in schools. All were then asked how (40) ______ hours they had practised since they first picked up a violin. Everyone, from all three groups, had started playing at roughly the age of five and practised from two or three hours a week. (41) ______ around the age of eight, differences started to emerge. The students (42) _______ would end up as the best in their class began to practise more than everyone else, until by the age of 20 they were practising well over 30 hours a week. By then, the elite performers had all totaled 10000 hours of practice over the (43) ________ of their lives, the merely good students 8000 hours and the future music teachers just over 4000 hours(Adapted from Ready for Advanced by Roy Norris, Amanda French with Miles Hordern)​ (43) _______",
+      "answers": [
+        "A. parted",
+        "B. shared",
+        "C. divided",
+        "D. broke"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "26",
+      "topicId": 2,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "27",
+      "topicId": 2,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "28",
+      "topicId": 2,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "29",
+      "topicId": 2,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "30",
+      "topicId": 2,
+      "title": "Mark the letter A, B, C, or D on your answer sheet to indicate the word which differs from the other three in the position of primary stress in each of the following questions",
+      "question": "Choose the word which differs from the other three in the position of primary stress: order, reduce, invite, complain",
+      "answers": [
+        "A. order",
+        "B. reduce",
+        "C. invite",
+        "D. complain"
       ],
       "correctAnswer": 1
     }
@@ -585,6 +722,233 @@
         {
           "questionID": "20",
           "answer": "2"
+        }
+      ]
+    },
+    {
+      "id": "388e",
+      "userID": "1",
+      "topicID": 1,
+      "date": "11-01-2025",
+      "time": "08:32:42",
+      "result": [
+        {
+          "questionID": "1",
+          "answer": "1"
+        },
+        {
+          "questionID": "2",
+          "answer": "2"
+        },
+        {
+          "questionID": "3",
+          "answer": "1"
+        },
+        {
+          "questionID": "4",
+          "answer": "1"
+        },
+        {
+          "questionID": "5",
+          "answer": "1"
+        },
+        {
+          "questionID": "6",
+          "answer": "3"
+        },
+        {
+          "questionID": "7",
+          "answer": "2"
+        },
+        {
+          "questionID": "8",
+          "answer": "2"
+        },
+        {
+          "questionID": "9",
+          "answer": "1"
+        },
+        {
+          "questionID": "10",
+          "answer": "3"
+        },
+        {
+          "questionID": "11",
+          "answer": "1"
+        },
+        {
+          "questionID": "12",
+          "answer": "1"
+        },
+        {
+          "questionID": "13",
+          "answer": "1"
+        },
+        {
+          "questionID": "14",
+          "answer": "1"
+        },
+        {
+          "questionID": "15",
+          "answer": "1"
+        },
+        {
+          "questionID": "16",
+          "answer": "1"
+        },
+        {
+          "questionID": "17",
+          "answer": "2"
+        },
+        {
+          "questionID": "18",
+          "answer": "1"
+        },
+        {
+          "questionID": "19",
+          "answer": "1"
+        },
+        {
+          "questionID": "20",
+          "answer": "1"
+        }
+      ]
+    },
+    {
+      "id": "4233",
+      "userID": "1",
+      "topicID": 2,
+      "date": "11-01-2025",
+      "time": "08:57:20",
+      "result": [
+        {
+          "questionID": "21",
+          "answer": "1"
+        },
+        {
+          "questionID": "22",
+          "answer": "2"
+        },
+        {
+          "questionID": "23",
+          "answer": "1"
+        },
+        {
+          "questionID": "24",
+          "answer": "1"
+        },
+        {
+          "questionID": "25",
+          "answer": "1"
+        },
+        {
+          "questionID": "26",
+          "answer": "1"
+        },
+        {
+          "questionID": "27",
+          "answer": "3"
+        },
+        {
+          "questionID": "28",
+          "answer": "4"
+        },
+        {
+          "questionID": "29",
+          "answer": "1"
+        },
+        {
+          "questionID": "30",
+          "answer": "2"
+        }
+      ]
+    },
+    {
+      "id": "97e7",
+      "userID": "1",
+      "topicID": 1,
+      "date": "11-01-2025",
+      "time": "09:14:01",
+      "result": [
+        {
+          "questionID": "1",
+          "answer": "1"
+        },
+        {
+          "questionID": "2",
+          "answer": "1"
+        },
+        {
+          "questionID": "3",
+          "answer": "1"
+        },
+        {
+          "questionID": "4",
+          "answer": "1"
+        },
+        {
+          "questionID": "5",
+          "answer": "1"
+        },
+        {
+          "questionID": "6",
+          "answer": "1"
+        },
+        {
+          "questionID": "7",
+          "answer": "1"
+        },
+        {
+          "questionID": "8",
+          "answer": "1"
+        },
+        {
+          "questionID": "9",
+          "answer": "1"
+        },
+        {
+          "questionID": "10",
+          "answer": "1"
+        },
+        {
+          "questionID": "11",
+          "answer": "1"
+        },
+        {
+          "questionID": "12",
+          "answer": "1"
+        },
+        {
+          "questionID": "13",
+          "answer": "1"
+        },
+        {
+          "questionID": "14",
+          "answer": "1"
+        },
+        {
+          "questionID": "15",
+          "answer": "1"
+        },
+        {
+          "questionID": "16",
+          "answer": "1"
+        },
+        {
+          "questionID": "17",
+          "answer": "1"
+        },
+        {
+          "questionID": "18",
+          "answer": "1"
+        },
+        {
+          "questionID": "19",
+          "answer": "1"
+        },
+        {
+          "questionID": "20",
+          "answer": "1"
         }
       ]
     }

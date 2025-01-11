@@ -1,6 +1,6 @@
 import {get }from '../Utils'
 
-export const getAnswer = async () => {
-    const res = await get("answers");
+export const getAnswer = async (id) => {
+    const res = await get(`answers?userID=${id}`);
     return res
 }

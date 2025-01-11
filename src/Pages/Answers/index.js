@@ -4,14 +4,14 @@ import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { getAnswer } from "../../Services/answers";
 import { getTopic } from "../../Services/topic";
-
+import { getCookie } from "../../Helpers/cookies";
 function Answers() {
     const [data, setData] = useState([]);
-
+    const userID = getCookie("id");
     useEffect(() => {
         const fetchData = async () => {
             try {
-                const listQuestion = await getAnswer();
+                const listQuestion = await getAnswer(userID);
                 const res = await getTopic();
                 console.log(listQuestion, res)
                 const finalResult = []
