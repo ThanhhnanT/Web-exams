@@ -52,6 +52,8 @@ function Result() {
         fetchData();
     }, [params.id]);
 
+    // console.log(result)
+
     return (
         <>
             <div style={{ maxWidth: 1100, margin: "0 auto" }}>

@@ -117,7 +117,7 @@ function Home() {
                             <div className="course-card__header">
                                 <h4>Luyện thi</h4>
                                 <h3>
-                                    <span className="highlight">IELTS</span> READING
+                                    <span className="highlight">IELTS</span> LISTENING
                                 </h3>
                                 <Tag color="blue">General Training Lessons & Exercises</Tag>
                             </div>
@@ -156,7 +156,7 @@ function Home() {
                             <div className="course-card__header">
                                 <h4>Luyện thi</h4>
                                 <h3>
-                                    <span className="highlight">IELTS</span> READING
+                                    <span className="highlight">IELTS</span> WRITTING
                                 </h3>
                                 <Tag color="blue">General Training Lessons & Exercises</Tag>
                             </div>
